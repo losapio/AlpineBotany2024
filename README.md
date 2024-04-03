@@ -1,4 +1,4 @@
-# AlpineBotany2024
+# Alpine Botany 2024
 
 Data and R software code to reproduce the analysis reported in the paper:
 
